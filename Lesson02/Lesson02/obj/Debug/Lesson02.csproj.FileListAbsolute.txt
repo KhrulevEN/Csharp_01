@@ -1,0 +1,6 @@
+C:\gb\Csharp_01\Lesson02\Lesson02\bin\Debug\Lesson02.exe.config
+C:\gb\Csharp_01\Lesson02\Lesson02\bin\Debug\Lesson02.exe
+C:\gb\Csharp_01\Lesson02\Lesson02\bin\Debug\Lesson02.pdb
+C:\gb\Csharp_01\Lesson02\Lesson02\obj\Debug\Lesson02.exe
+C:\gb\Csharp_01\Lesson02\Lesson02\obj\Debug\Lesson02.pdb
+C:\gb\Csharp_01\Lesson02\Lesson02\obj\Debug\Lesson02.csprojResolveAssemblyReference.cache
