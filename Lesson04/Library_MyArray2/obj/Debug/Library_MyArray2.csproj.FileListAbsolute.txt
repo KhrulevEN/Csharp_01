@@ -1,0 +1,6 @@
+C:\gb\Csharp_01\Lesson04\Library_MyArray2\obj\Debug\Library_MyArray2.csprojAssemblyReference.cache
+C:\gb\Csharp_01\Lesson04\Library_MyArray2\obj\Debug\Library_MyArray2.csproj.CoreCompileInputs.cache
+C:\gb\Csharp_01\Lesson04\Library_MyArray2\bin\Debug\Library_MyArray2.dll
+C:\gb\Csharp_01\Lesson04\Library_MyArray2\bin\Debug\Library_MyArray2.pdb
+C:\gb\Csharp_01\Lesson04\Library_MyArray2\obj\Debug\Library_MyArray2.dll
+C:\gb\Csharp_01\Lesson04\Library_MyArray2\obj\Debug\Library_MyArray2.pdb
