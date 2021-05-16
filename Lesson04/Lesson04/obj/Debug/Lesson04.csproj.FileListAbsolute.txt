@@ -1,0 +1,12 @@
+C:\gb\Csharp_01\Lesson04\Lesson04\bin\Debug\Lesson04.exe.config
+C:\gb\Csharp_01\Lesson04\Lesson04\bin\Debug\Lesson04.exe
+C:\gb\Csharp_01\Lesson04\Lesson04\bin\Debug\Lesson04.pdb
+C:\gb\Csharp_01\Lesson04\Lesson04\obj\Debug\Lesson04.exe
+C:\gb\Csharp_01\Lesson04\Lesson04\obj\Debug\Lesson04.pdb
+C:\gb\Csharp_01\Lesson04\Lesson04\obj\Debug\Lesson04.csprojAssemblyReference.cache
+C:\gb\Csharp_01\Lesson04\Lesson04\obj\Debug\Lesson04.csproj.CoreCompileInputs.cache
+C:\gb\Csharp_01\Lesson04\Lesson04\bin\Debug\Library_MyArray.dll
+C:\gb\Csharp_01\Lesson04\Lesson04\bin\Debug\Library_MyArray.pdb
+C:\gb\Csharp_01\Lesson04\Lesson04\obj\Debug\Lesson04.csproj.CopyComplete
+C:\gb\Csharp_01\Lesson04\Lesson04\bin\Debug\Library_MyArray2.dll
+C:\gb\Csharp_01\Lesson04\Lesson04\bin\Debug\Library_MyArray2.pdb

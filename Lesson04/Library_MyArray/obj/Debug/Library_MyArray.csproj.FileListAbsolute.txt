@@ -1,0 +1,5 @@
+C:\gb\Csharp_01\Lesson04\Library_MyArray\bin\Debug\Library_MyArray.dll
+C:\gb\Csharp_01\Lesson04\Library_MyArray\bin\Debug\Library_MyArray.pdb
+C:\gb\Csharp_01\Lesson04\Library_MyArray\obj\Debug\Library_MyArray.csproj.CoreCompileInputs.cache
+C:\gb\Csharp_01\Lesson04\Library_MyArray\obj\Debug\Library_MyArray.dll
+C:\gb\Csharp_01\Lesson04\Library_MyArray\obj\Debug\Library_MyArray.pdb
