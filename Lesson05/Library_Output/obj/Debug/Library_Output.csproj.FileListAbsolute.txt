@@ -1,0 +1,4 @@
+C:\gb\Csharp_01\Lesson05\Library_Output\bin\Debug\Library_Output.dll
+C:\gb\Csharp_01\Lesson05\Library_Output\bin\Debug\Library_Output.pdb
+C:\gb\Csharp_01\Lesson05\Library_Output\obj\Debug\Library_Output.dll
+C:\gb\Csharp_01\Lesson05\Library_Output\obj\Debug\Library_Output.pdb
