@@ -1,0 +1,8 @@
+C:\gb\Csharp_01\Lesson05\Lesson05\bin\Debug\Lesson05.exe.config
+C:\gb\Csharp_01\Lesson05\Lesson05\obj\Debug\Lesson05.csprojResolveAssemblyReference.cache
+C:\gb\Csharp_01\Lesson05\Lesson05\bin\Debug\Lesson05.exe
+C:\gb\Csharp_01\Lesson05\Lesson05\bin\Debug\Lesson05.pdb
+C:\gb\Csharp_01\Lesson05\Lesson05\bin\Debug\Library_Output.dll
+C:\gb\Csharp_01\Lesson05\Lesson05\bin\Debug\Library_Output.pdb
+C:\gb\Csharp_01\Lesson05\Lesson05\obj\Debug\Lesson05.exe
+C:\gb\Csharp_01\Lesson05\Lesson05\obj\Debug\Lesson05.pdb
