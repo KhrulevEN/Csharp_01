@@ -1,0 +1,8 @@
+C:\gb\Csharp_01\Lesson06\Lesson06\bin\Debug\Lesson06.exe.config
+C:\gb\Csharp_01\Lesson06\Lesson06\bin\Debug\Lesson06.exe
+C:\gb\Csharp_01\Lesson06\Lesson06\bin\Debug\Lesson06.pdb
+C:\gb\Csharp_01\Lesson06\Lesson06\bin\Debug\Library_Output.dll
+C:\gb\Csharp_01\Lesson06\Lesson06\bin\Debug\Library_Output.pdb
+C:\gb\Csharp_01\Lesson06\Lesson06\obj\Debug\Lesson06.csprojResolveAssemblyReference.cache
+C:\gb\Csharp_01\Lesson06\Lesson06\obj\Debug\Lesson06.exe
+C:\gb\Csharp_01\Lesson06\Lesson06\obj\Debug\Lesson06.pdb
