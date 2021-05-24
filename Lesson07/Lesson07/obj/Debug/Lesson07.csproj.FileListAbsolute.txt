@@ -1,0 +1,13 @@
+C:\gb\Csharp_01\Lesson07\Lesson07\bin\Debug\Lesson07.exe.config
+C:\gb\Csharp_01\Lesson07\Lesson07\obj\Debug\Lesson07.Properties.Resources.resources
+C:\gb\Csharp_01\Lesson07\Lesson07\obj\Debug\Lesson07.csproj.GenerateResource.Cache
+C:\gb\Csharp_01\Lesson07\Lesson07\bin\Debug\Lesson07.exe
+C:\gb\Csharp_01\Lesson07\Lesson07\bin\Debug\Lesson07.pdb
+C:\gb\Csharp_01\Lesson07\Lesson07\obj\Debug\Lesson07.exe
+C:\gb\Csharp_01\Lesson07\Lesson07\obj\Debug\Lesson07.pdb
+C:\gb\Csharp_01\Lesson07\Lesson07\obj\Debug\Lesson07.CounterControl.resources
+C:\gb\Csharp_01\Lesson07\Lesson07\obj\Debug\Lesson07.csprojAssemblyReference.cache
+C:\gb\Csharp_01\Lesson07\Lesson07\obj\Debug\Lesson07.GuessNumber.resources
+C:\gb\Csharp_01\Lesson07\Lesson07\obj\Debug\Lesson07.csproj.CoreCompileInputs.cache
+C:\gb\Csharp_01\Lesson07\Lesson07\obj\Debug\Lesson07.formMain.resources
+C:\gb\Csharp_01\Lesson07\Lesson07\obj\Debug\Lesson07.formInput.resources
