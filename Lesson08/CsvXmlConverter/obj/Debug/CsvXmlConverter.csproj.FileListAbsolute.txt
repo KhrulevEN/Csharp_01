@@ -1,0 +1,7 @@
+C:\gb\Csharp_01\Lesson08\CsvXmlConverter\bin\Debug\CsvXmlConverter.exe.config
+C:\gb\Csharp_01\Lesson08\CsvXmlConverter\bin\Debug\students.csv
+C:\gb\Csharp_01\Lesson08\CsvXmlConverter\bin\Debug\CsvXmlConverter.exe
+C:\gb\Csharp_01\Lesson08\CsvXmlConverter\bin\Debug\CsvXmlConverter.pdb
+C:\gb\Csharp_01\Lesson08\CsvXmlConverter\obj\Debug\CsvXmlConverter.csprojResolveAssemblyReference.cache
+C:\gb\Csharp_01\Lesson08\CsvXmlConverter\obj\Debug\CsvXmlConverter.exe
+C:\gb\Csharp_01\Lesson08\CsvXmlConverter\obj\Debug\CsvXmlConverter.pdb
