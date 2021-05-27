@@ -1,0 +1,9 @@
+C:\gb\Csharp_01\Lesson08\App02\bin\Debug\App02.exe.config
+C:\gb\Csharp_01\Lesson08\App02\bin\Debug\App02.exe
+C:\gb\Csharp_01\Lesson08\App02\bin\Debug\App02.pdb
+C:\gb\Csharp_01\Lesson08\App02\obj\Debug\App02.csprojResolveAssemblyReference.cache
+C:\gb\Csharp_01\Lesson08\App02\obj\Debug\App02.Form1.resources
+C:\gb\Csharp_01\Lesson08\App02\obj\Debug\App02.Properties.Resources.resources
+C:\gb\Csharp_01\Lesson08\App02\obj\Debug\App02.csproj.GenerateResource.Cache
+C:\gb\Csharp_01\Lesson08\App02\obj\Debug\App02.exe
+C:\gb\Csharp_01\Lesson08\App02\obj\Debug\App02.pdb
